@@ -17,6 +17,7 @@ skiing.  I come from Reno, NV and though I have lived in Portland for quite some
 always call the Sierras Nevadas home.  I currently attend Hack Reactor through their online
 remote program, however I plan to reloactate to San Francsico, CA upon completion of the
 program.
+![Alt text](http://i.imgur.com/IeFTpH5.jpg "Sailing in SF")
 
 ### Get a hold of me!
 
