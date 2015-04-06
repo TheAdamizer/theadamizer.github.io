@@ -43,7 +43,3 @@ simply running SpecRunner.html.  This will check up on your bloom filter
 implementation and run a series of tests on it to see if it is satisfactory.
 If you can make your bloom filter pass all of the tests than you should have
 a working bloom filter!  Have fun getting that page of green.
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
