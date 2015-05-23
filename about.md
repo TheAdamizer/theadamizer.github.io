@@ -8,7 +8,7 @@ My name is Adam Van Antwerp and I love the web.  I'm here to help us all communi
 with each other in a human, intuitive, and productive way.  I can write in Javascript
 and Python, I enjoy working at all levels of the stack, and I am passionate about sharing
 any tiny bit of knowledge I obtain with others. I consider myself a lifetime learner and
-it is for this reason that I have chosen to persue web development and programming in general.
+it is for this reason that I have chosen to pursue web development and programming in general.
 
 ### Personal Details
 
