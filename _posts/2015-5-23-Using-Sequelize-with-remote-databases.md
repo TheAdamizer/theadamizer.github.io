@@ -16,5 +16,6 @@ As you can see, configuring the database to connect to the server is just as eas
   * The user that you will use to access the db.  (root shown as an example)  
   * The password to use for that user. (Obviously and example password)  
   * The connection and database type information in an object.  
+   
 In this case the object with the type and connection information needs to only contain two key/value pairs.  The first is the actual ip of the host you would like to connect to, and the second is a 'dialect.'  We are using MySQL on my project, but if you wanted to use a different type of a relational database, this is where you would put it.  
 This file is a standalone node module, so I just simply export the newly created object and voila!  You have access to a remote database in all of your serverside models, assuming they import your module.  
