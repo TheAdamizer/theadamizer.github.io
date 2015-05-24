@@ -12,7 +12,7 @@ it is for this reason that I have chosen to pursue web development and programmi
 
 ### Personal Details
 
-Outside of web development, I enjoy coffee, dance music, sailing, cooking, zumurgy and water
+Outside of web development, I enjoy coffee, dance music, sailing, cooking, zymurgy and water
 skiing.  I come from Reno, NV and though I have lived in Portland for quite some time I will
 always call the Sierras Nevadas home.  I currently attend Hack Reactor through their online
 remote program, however I plan to reloactate to San Francsico, CA upon completion of the
