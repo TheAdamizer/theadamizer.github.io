@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Test your Express-JTW back-end with postman
+title: Test your Express-JWT back-end with postman
 ---
 
 [Postman](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm?hl=en), if you're not aware, is an awesome REST client that works through chrome as an app.  Among many other things, it
