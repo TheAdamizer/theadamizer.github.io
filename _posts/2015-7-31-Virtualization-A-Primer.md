@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Virtualization: A primer
+title: Virtualization A primer
 ---
 ## What is virtualization? ##
 Virtualization, to keep things simple and short, is simply the act of creating a virtual (not actual) computer resource (usually within another computer resource.)  In this short post, I will discuss some ways to virtualize an operating system and compare them.  
