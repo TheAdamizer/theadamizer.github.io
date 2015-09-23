@@ -13,10 +13,8 @@ it is for this reason that I have chosen to pursue web development and programmi
 ### Personal Details
 
 Outside of web development, I enjoy coffee, dance music, sailing, cooking, zymurgy and water
-skiing.  I come from Reno, NV and though I have lived in Portland for quite some time I will
-always call the Sierras Nevadas home.  I currently attend Hack Reactor through their online
-remote program, however I plan to relocate to San Francsico, CA upon completion of the
-program.
+skiing.  I come from Reno, NV and I will always call the Sierras Nevadas home, but I currently live in Oakland, CA and I am currently pursuing new opprotunities in the bay area.
+
 ******
 
 ![Alt text](http://i.imgur.com/IeFTpH5.jpg "Sailing in SF")
